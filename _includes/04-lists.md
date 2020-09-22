@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Kiwi
+2. Bannana
+3. Apple
+  i. Golden Delicious
+  ii. Granny Smith
+  iii. Astrakan
